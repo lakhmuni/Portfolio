@@ -1,0 +1,402 @@
+
+*{
+    margin: 0;
+    text-decoration: none;
+}
+#container{
+    background-color: aqua;
+    display: flex;
+    justify-content:end;
+    width: 99vw;
+    height: 10vh;
+    align-items: end;
+    border: 2px solid black;
+    position: fixed;
+    top: 0;
+}
+a {
+  color: black;
+  padding:16px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+ }
+
+
+button{
+    background-color: skyblue;
+    border: 2px solid black;
+    border-radius: 20px;
+    height:  5vh;
+    width: 12vw;
+    margin-left: 100px;
+ 
+
+}
+
+.re{
+    margin-top: 100px;
+}
+.me{
+    display: block;
+}
+
+#Home{
+    background: url("https://bikramkawan.github.io/portfolio/static/media/bg.c9e39e29.jpg");
+    height: 100vh;
+    margin-top: 40px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#berak{
+    display: flex;
+    justify-content: space-around;
+    width: 80vw;
+} 
+#sa{
+   display: block;
+   margin-top: 190px; 
+}
+.ru{
+    display: flex;
+    justify-content: center;
+*{
+   
+    margin: 0;
+    text-decoration: none;
+}
+#container{
+    background-color: aqua;
+    display: flex;
+    justify-content:end;
+    width: 99vw;
+    height: 10vh;
+    align-items: end;
+    border: 2px solid black;
+    position: fixed;
+    top: 0;
+}
+a {
+  color: black;
+  padding:16px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+ }
+
+
+button{
+    background-color: skyblue;
+    border: 2px solid black;
+    border-radius: 20px;
+    height:  5vh;
+    width: 12vw;
+    margin-left: 100px;
+ 
+
+}
+
+.re{
+    margin-top: 100px;
+}
+.me{
+    display: block;
+}
+
+#Home{
+    background: url("https://bikramkawan.github.io/portfolio/static/media/bg.c9e39e29.jpg");
+    height: 100vh;
+    margin-top: 40px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#berak{
+    display: flex;
+    justify-content: space-around;
+    width: 80vw;
+} 
+#sa{
+   display: block;
+   margin-top: 190px; 
+}
+.ru{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.he{
+    display: flex;
+    margin-top: 10px;
+}
+#About{
+    background: url("https://png.pngtree.com/background/20210716/original/pngtree-portfolio-memphis-playful-abstract-pink-picture-image_1347354.jpg")no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+.lu{
+    display: flex;
+ 
+}
+#About p {
+  font-weight:  bold;
+ font-size: 20px;
+}
+.me{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+
+.rel{
+    display: flex;
+    justify-content: center;
+  
+    
+}
+#Skills{
+    background: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#Skills h1{
+    margin-bottom: 100px;
+}
+
+#Education{
+    background: silver;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#footer{
+    background: aqua;
+    height: 10vh;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    border: 2px solid black;
+    width: 99vw; 
+   
+}
+
+
+.lakhmunibai{ 
+    display: flex;
+    gap: 40px;
+    padding-left: 900px;
+   
+
+}
+#wed{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+header {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    gap: 50px;
+}
+
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+   
+ }
+
+h2 {
+    text-align: center;
+}
+label {
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkblue;
+}
+#Contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.ru{
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 5px;
+}
+    align-items: center;
+}
+.he{
+    display: flex;
+    margin-top: 10px;
+}
+#About{
+    background: url("https://png.pngtree.com/background/20210716/original/pngtree-portfolio-memphis-playful-abstract-pink-picture-image_1347354.jpg")no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+.lu{
+    display: flex;
+ 
+}
+#About p {
+  font-weight:  bold;
+ font-size: 20px;
+}
+.me{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+
+.rel{
+    display: flex;
+    justify-content: center;
+  
+    
+}
+#Skills{
+    background: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#Skills h1{
+    margin-bottom: 100px;
+}
+
+#Education{
+    background: silver;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#footer{
+    background: aqua;
+    height: 10vh;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    border: 2px solid black;
+    width: 99vw; 
+   
+}
+
+
+.lakhmunibai{ 
+    display: flex;
+    gap: 40px;
+    padding-left: 900px;
+   
+
+}
+#wed{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+header {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    gap: 50px;
+}
+
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+   
+ }
+
+h2 {
+    text-align: center;
+}
+label {
+    font-weight: bold;
+}
+
+ input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+} 
+
+input[type="submit"] {
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkblue;
+}
+#Contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+ .ru{
+     border: 5px solid black;
+    border-radius: 20px;
+    padding: 5px;
+} 
